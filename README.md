@@ -36,7 +36,7 @@ I'm currently pursuing a Bachelor's in Computer Engineering at Penn State. Recen
 ## Most Recent Projects
 
 <div>
-    <a href="https://github.com/EngineerInCollege/BlockBallot-Voting">
+    <a href="https://github.com/EngineerInCollege/BlockBallot-Voting" target="_blank">
         <img src="https://blockballot-voting.vercel.app/favicon.ico" alt="BlockBallot" style="border-radius: 50%; width: 100 px; height: 100 px;">
     </a>
     <p>
@@ -45,7 +45,7 @@ I'm currently pursuing a Bachelor's in Computer Engineering at Penn State. Recen
 </div>
 
 <div>
-    <a href="https://github.com/EngineerInCollege/WishVoyage">
+    <a href="https://github.com/EngineerInCollege/WishVoyage" target="_blank">
         <img src="https://wish-voyage.vercel.app/favicon.ico" alt="WishVoyage" style="border-radius: 50 %; width: 1 vw; height: 1 vw;">
     </a>
     <p>
