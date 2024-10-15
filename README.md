@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/EngineerInCollege/EngineerInCollege/blob/main/Immen_Photo.PNG" alt="github 3d icon" style="border-radius: 50%; width: 25%; height: 25%;">
+<!--     <img src="https://github.com/EngineerInCollege/EngineerInCollege/blob/main/Immen_Photo.PNG" alt="github 3d icon" style="border-radius: 50%; width: 25%; height: 25%;"> -->
 </div>
 <div align=center>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=FFA500&center=true&vCenter=true&width=500&lines=Hi!+I'm+Negein+Immen;Open-source+enthusiast;Computer+Engineering+Student;I'm+an+engineer+in+college+btw;" alt="Typing SVG" /></a>
